@@ -1,0 +1,5 @@
+google-generativeai
+pinecone-client
+langchain
+pypdf
+python-dotenv

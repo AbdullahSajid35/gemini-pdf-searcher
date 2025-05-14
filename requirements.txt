@@ -1,5 +1,8 @@
 google-generativeai
-pinecone-client
+pinecone
 langchain
+langchain-community
 pypdf
 python-dotenv
+streamlit
+numpy<2
